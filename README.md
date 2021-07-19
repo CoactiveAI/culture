@@ -7,7 +7,7 @@ We strive to be the best and serve as a role model for company culture. However,
 Remember, we will all embody this culture together, so it's up to each and every one of us to live by the following:
 
 ## Guiding principles
-The **8** guiding principles below define the basis for our culture. They serve as a policy to help us to cope with or overcome the obstacles we will face. Like the guardrails on a highway, they direct our actions, so we stay on track. 
+The **9** guiding principles below define the basis for our culture. They serve as a policy to help us to cope with or overcome the obstacles we will face. Like the guardrails on a highway, they direct our actions, so we stay on track. 
 
 #### 1. View our culture as our first and most important product.
 Culture is who we are, how we act, and what we say. It is our pioneering product, and we treat it as such, continuously building and deploying the best version of it.
