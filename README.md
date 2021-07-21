@@ -37,3 +37,15 @@ We value feedback and do not shy away from crucial conversations. Through clear,
 #### 8. Have an opinion and the evidence to back it up.
 Opinions are valued. We want everyone to have them and encourage active, thoughtful dialogue around each thought regardless of where the suggestion comes from  (yes, including the CEO). We also present the reasoning behind our opinions, so others can poke holes and understand when our advice is applicable.
 
+
+## Our culture in action
+Actions speak louder than words, so we reinforce our guiding values everyday. It influences how we hire, think, and interact. Below are a few concrete examples of how we practice what we preach.
+
+### During the interview
+*Under construction. You can help by suggesting coherent actions that follow our guiding principles.*
+
+### During onboarding
+*Under construction. You can help by suggesting coherent actions that follow our guiding principles.*
+
+### During the day-to-day
+*Under construction. You can help by suggesting coherent actions that follow our guiding principles.*
