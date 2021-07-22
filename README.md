@@ -29,8 +29,9 @@ Failure does not scare us, but we also do our best to mitigate the impact on our
 
 #### 6. Act pragmatically and empathically.
 When working with customers, partners, and each other, we think carefully about our decisions but never forget that respect, thoughtfulness, and empathy is deserving to any and all.
-What we say
 
+
+### What we say
 #### 7. Have the hard conversations upfront.
 We value feedback and do not shy away from crucial conversations. Through clear, thoughtful, and constructive dialogue, we can learn and go further together.
 
