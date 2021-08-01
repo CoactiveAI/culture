@@ -11,7 +11,7 @@ Each and every one of us is what makes Coactive so special. Our adherence to our
 The 8 guiding principles below define the basis for our culture. They serve as a policy to help us cope with and overcome the obstacles we will face together. Like the guardrails on a highway, they direct our actions and keep us on track.
 
 #### 1. View our culture as our first and most important product.
-Culture is who we are, how we act, and what we say. It is our pioneering product, and we treat it as such, continuously building and deploying the best version of it.
+Culture is who we are, how we act, and what we say. It is our most crucial priority and our greatest strength, and we treat it as such, continuously building and deploying the best version of it.
 
 ### Who we are
 #### 2. One team.
