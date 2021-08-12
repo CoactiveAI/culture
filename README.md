@@ -2,7 +2,7 @@
 **Mission:** To help humans and machines work together
 
 ## Philosophy
-We strive to be the best role model for company culture. However, we are not alone in this pursuit, nor do we pretend to be. We have learned from the strengths and weaknesses of other great companies to push the frontier because just good isn't good enough. Our culture draws inspiration from all of the top companies in the world while adding fresh perspective and thoughtful review, making it uniquely Coactive.
+We strive to be the best role model for company culture. However, we are not alone in this pursuit, nor do we pretend to be. We have learned from the strengths and weaknesses of other great companies to push the frontier because good isn't good enough. Our culture draws inspiration from all of the top companies in the world while adding fresh perspective and thoughtful review, making it uniquely Coactive.
 
 Each and every one of us is what makes Coactive so special. Our adherence to our guiding principles is what ultimately defines our culture and our identity.
 
@@ -17,23 +17,23 @@ Culture is who we are, how we act, and what we say. It is our most crucial prior
 #### 2. One team.
 It's a relay race, not a 100m sprint. We each own our part and give it our all, but we only win by working together as one team. We are all supporting roles.
 
-#### 3. Accountable, reliable, and responsible. 
+#### 3. Not bystanders.
 We do not shy away from responsibility and accountability. We take ownership to ensure nothing falls through the cracks, and we are not afraid to pitch in and share the load.
 
 #### 4. Humble and grateful.
 In victories and in defeat, we never lose sight of the bigger picture. We put aside our egos, always showing gratitude for what we have and towards one another.
 
 ### How we act
-#### 5. Move boldly and deliberately.
+#### 5. Boldly and deliberately.
 Failure does not scare us, but we also do our best to mitigate the impact on our customers and partners. We take calculated steps before fiercely springing into action but once we do, we relentlessly pursue our goal.
 
-#### 6. Act pragmatically and empathetically.
+#### 6. Pragmatically and empathetically.
 When working with customers, partners, and each other, we always strive to find the optimal solution but never forget that we show respect, thoughtfulness, and empathy to all.
 
 ### What we say
-#### 7. Have the hard conversations upfront.
+#### 7. The hard conversations upfront.
 We value feedback and encourage difficult conversations. Through clear, thoughtful, and constructive dialogue, we can learn from each other and build together.
 
-#### 8. Have an opinion and the evidence to back it up.
+#### 8. Our opinions with the evidence to back it up.
 Opinions are valued. We want everyone to have them and encourage active, thoughtful dialogue around each viewpoint regardless of where it comes from (yes, including from the CEO). We also present the reasoning behind our outlooks, inviting feedback and explaining when and why our advice is applicable.
 
