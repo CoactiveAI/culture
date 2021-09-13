@@ -7,6 +7,3 @@ setup(
     author_email='cody@coactive.ai',
     packages=['cocu'],
 )
-
-
-# Test for CI

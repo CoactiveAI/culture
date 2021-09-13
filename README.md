@@ -49,6 +49,3 @@ Actions speak louder than words, so we reinforce our guiding values everyday. It
 
 ### During the day-to-day
 *Under construction. You can help by suggesting coherent actions that follow our guiding principles.*
-
-### Test for CI
-*Whitelist. Blacklist. Him, Her.
