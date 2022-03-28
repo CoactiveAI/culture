@@ -48,5 +48,5 @@ Actions speak louder than words, so we reinforce our guiding values everyday. It
 *Under construction. You can help by suggesting coherent actions that follow our guiding principles.*
 
 ### During the day-to-day
-Our words in day-to-day interactions can be exclusionary or insensitive. We encourage addressing a group as "Hi folks!" or "Hi everyone!" or "Hi y'all!".
+We always aim to make our words in day-to-day interactions inclusive and empathetic. We encourage addressing a group as "Hi folks!" or "Hi everyone!" or "Hi y'all!".
 *Under construction. You can help by suggesting coherent actions that follow our guiding principles.*
