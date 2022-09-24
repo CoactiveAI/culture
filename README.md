@@ -42,6 +42,7 @@ Opinions are valued. We want everyone to have them and encourage active, thought
 Actions speak louder than words, so we reinforce our guiding values everyday. It influences how we hire, think, and interact. Below are a few concrete examples of how we practice what we preach.
 
 ### During the interview
+We initially ask all of our candidates for their preferred pronouns and allow them to easily record and attach the pronunciation of their names, embracing our values of respect and inclusion.
 *Under construction. You can help by suggesting coherent actions that follow our guiding principles.*
 
 ### During onboarding
